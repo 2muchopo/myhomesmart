@@ -1,0 +1,143 @@
+*{margin: 0;padding: 0; box-sizing: border-box;}
+.article{background-color: #fff;
+    padding: 50px;
+display: flex;
+height: 800px;
+
+}
+
+.aside{
+flex: 1;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: start;
+padding-left: 80px;
+
+
+}
+.aside h1{font-size: 32px;}
+.aside p{font-size: 14px;
+padding: 5px 0;}
+.aside button{width: 100px;
+height: 35px;
+background-color: #f39c12;
+border: none;
+border-radius: 4px ;
+font-weight: bold;
+cursor: pointer;}
+
+.aside button:hover{ background-color: #c0392b;
+color: white;}
+.picture{
+flex: 1;
+position: relative;
+
+}
+
+.picture img{
+position: relative;
+z-index: 1;
+margin-right: 70px;
+}
+.picture .circle{width: 350px;
+height: 350px;
+border-radius: 50%;
+position: absolute;
+bottom: 18px;
+right: -48px;}
+
+
+
+@media screen and (max-width: 768px) {
+
+    .article{
+        width: 100%;
+    background-color: #fff;
+    padding: 0px;
+    display: flex;
+    height: 970px;
+    display: flex;
+    flex-direction: column-reverse;
+    
+    }
+    .aside{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+        padding-left: 140px;
+        padding-right: 30px;
+        
+        
+        }
+    .picture{
+        flex: 1;
+        position: relative;
+        padding-top: 30px;
+        padding-left: 100px;
+        }
+        
+        .picture img{
+        position: relative;
+        z-index: 1;
+        margin-right: 0px;
+        height: 600px;
+        }
+        .picture .circle{width: 320px;
+        height: 320px;
+        border-radius: 50%;
+        position: absolute;
+        bottom: -5px;
+        right: 45px;}
+        
+    
+}
+@media screen and (max-width: 600px) {
+    .article{
+        width: 100%;
+    background-color: #fff;
+    padding: 0px;
+    display: flex;
+    height: 850px;
+    display: flex;
+    flex-direction: column-reverse;
+    
+    }
+    .aside{
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: start;
+        align-items: start;
+        padding-left: 40px;
+        padding-top: 20px;
+        
+        
+        }
+    .picture{
+        flex: 1;
+        position: relative;
+        padding-top: 30px;
+        padding-left: 10px;
+        }
+        
+        .picture img{
+        position: relative;
+        z-index: 1;
+        margin-right: 0px;
+        height: 500px;
+        width: 80%;
+        }
+        .picture .circle{width: 300px;
+        height: 300px;
+        border-radius: 50%;
+        position: absolute;
+        bottom: -5px;
+        right: 45px;
+    display: none;}
+        
+    
+} 
+
