@@ -31,7 +31,7 @@ const Header = (props) => {
         <img src={app} alt="Logomark Logo" className='app' />
         </div>
         <div className='download'>
-            <button ><Icon icon="ant-design:download-outlined"/> Download The App</button>
+            <button ><Icon icon="ant-design:download-outlined" style={{fontSize:25, position: 'absolute', top: 5, left: 20}}/> Download The App</button>
         </div>
         <img src={logo} alt="Homesmart Logo" className='logo'/> 
         <span onClick={props.clickHamburger}><Icon icon="radix-icons:hamburger-menu" className='hamburger' /></span> 
