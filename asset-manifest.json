@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/myhomesmart/static/css/main.a8c8914f.css",
+    "main.js": "/myhomesmart/static/js/main.2d0d7d29.js",
+    "static/js/787.6bffca05.chunk.js": "/myhomesmart/static/js/787.6bffca05.chunk.js",
+    "static/media/couch.png": "/myhomesmart/static/media/couch.cb4ec7761ad480fa89ad.png",
+    "static/media/table.png": "/myhomesmart/static/media/table.4bf6a601e1b8ccb03af1.png",
+    "static/media/texas.svg": "/myhomesmart/static/media/texas.3dd46ac9d8b20e5b77fe2a808e6f3d1f.svg",
+    "static/media/app.svg": "/myhomesmart/static/media/app.45288807dfeef78f73dd00c69238962c.svg",
+    "static/media/dots.svg": "/myhomesmart/static/media/dots.56a416450b25edba8867adca99bfac21.svg",
+    "static/media/logo.svg": "/myhomesmart/static/media/logo.f960af0a37f151a574e391c92c14e4bd.svg",
+    "static/media/dell.svg": "/myhomesmart/static/media/dell.b23bd1a56ed0fdeedc353cbadd42779a.svg",
+    "static/media/disney.svg": "/myhomesmart/static/media/disney.7dc25886bdf5611cd3a6bf16bd0659d2.svg",
+    "static/media/deezer.svg": "/myhomesmart/static/media/deezer.fd49aecdb3e5906966ed6d335e8d9d9d.svg",
+    "static/media/spotify.svg": "/myhomesmart/static/media/spotify.2c7ee2466da3957958e7caa73bc96569.svg",
+    "static/media/verizon.svg": "/myhomesmart/static/media/verizon.819a402cac886feb5aa60b3883b56026.svg",
+    "static/media/cisco.svg": "/myhomesmart/static/media/cisco.f056a09c63aa671f89f6bc4a52a87c03.svg",
+    "index.html": "/myhomesmart/index.html",
+    "main.a8c8914f.css.map": "/myhomesmart/static/css/main.a8c8914f.css.map",
+    "main.2d0d7d29.js.map": "/myhomesmart/static/js/main.2d0d7d29.js.map",
+    "787.6bffca05.chunk.js.map": "/myhomesmart/static/js/787.6bffca05.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8c8914f.css",
+    "static/js/main.2d0d7d29.js"
+  ]
+}
