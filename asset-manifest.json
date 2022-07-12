@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/myhomesmart/static/css/main.a8c8914f.css",
-    "main.js": "/myhomesmart/static/js/main.2d0d7d29.js",
+    "main.js": "/myhomesmart/static/js/main.cc66790c.js",
     "static/js/787.6bffca05.chunk.js": "/myhomesmart/static/js/787.6bffca05.chunk.js",
     "static/media/couch.png": "/myhomesmart/static/media/couch.cb4ec7761ad480fa89ad.png",
     "static/media/table.png": "/myhomesmart/static/media/table.4bf6a601e1b8ccb03af1.png",
@@ -17,11 +17,11 @@
     "static/media/cisco.svg": "/myhomesmart/static/media/cisco.f056a09c63aa671f89f6bc4a52a87c03.svg",
     "index.html": "/myhomesmart/index.html",
     "main.a8c8914f.css.map": "/myhomesmart/static/css/main.a8c8914f.css.map",
-    "main.2d0d7d29.js.map": "/myhomesmart/static/js/main.2d0d7d29.js.map",
+    "main.cc66790c.js.map": "/myhomesmart/static/js/main.cc66790c.js.map",
     "787.6bffca05.chunk.js.map": "/myhomesmart/static/js/787.6bffca05.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a8c8914f.css",
-    "static/js/main.2d0d7d29.js"
+    "static/js/main.cc66790c.js"
   ]
 }
